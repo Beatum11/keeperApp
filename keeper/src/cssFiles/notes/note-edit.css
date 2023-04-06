@@ -1,0 +1,8 @@
+.note-container input{
+    font-size: 1.1rem;
+    font-family: 'McLaren', cursive;
+    margin: 0.5rem 0.5rem;
+    padding: 0.3rem 0.8rem;
+    border-radius: 1rem;   
+    border: 0.5px solid grey;
+}

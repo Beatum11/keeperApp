@@ -1,0 +1,11 @@
+.menu-container{
+    background-color: #EBB02D;
+    color: white;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+
+.menu-container h1{
+    margin-left: 2rem;
+}
